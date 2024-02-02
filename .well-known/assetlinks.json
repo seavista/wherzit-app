@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.seavista.wherzit",
+      "sha256_cert_fingerprints":
+      ["D8:4F:9A:81:CB:54:26:64:25:E9:7D:CD:7D:5A:7E:08:25:9F:AD:56:31:FB:1F:82:01:B1:4C:38:70:1B:59:FB"]
+    }
+  }]
